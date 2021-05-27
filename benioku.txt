@@ -1,0 +1,2 @@
+1.Programın örnek çıktısı eklenmiştir.
+2.Program hata vermesi durumunda bankaYokEt() satırı yorum satırına alınarak hata giderilebilir. Çok nadir bir şekilde yok etme kısmında çözemediğim bir hata oluşabiliyor.
